@@ -1,0 +1,7 @@
+[
+  { "name": "summer", "score": 50, "isLogin": true },
+  { "name": "lucy", "score": 40, "isLogin": false },
+  { "name": "henry", "score": 50, "isLogin": true },
+  { "name": "tom", "score": 20, "isLogin": false },
+  { "name": "lily", "score": 60, "isLogin": true }
+]
